@@ -6,12 +6,15 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+background-image: linear-gradient(to right bottom, #c1a6ed,#b6f0d5);
 }
 
 .header
 {
-	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color: #8a8ade;
+	font-family: 'Poiret One', cursive;
+	font-size: 45px;
+	margin-top: 80px;
 }
 .header img
 {
@@ -21,11 +24,11 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 .login_div
 {
 	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
-}
 
+}
 .logo
 {
-	width: 80px;margin-top: 30px;border-radius: 40px;
+	width: 80px;margin-top: 30px;border-radius: 40px;margin-left: 10px;
 }
 
 #login_button
@@ -60,8 +63,6 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 {
 	color: white;font-size: 20px;
 }
-
-
 .input_div_message_page
 {
 	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
