@@ -8,10 +8,10 @@ body
 {
 background-image: linear-gradient(to right bottom, #c1a6ed,#b6f0d5);
 }
-
+/* #8a8ade */
 .header
 {
-	color: #8a8ade;
+	color: white;
 	font-family: 'Poiret One', cursive;
 	font-size: 45px;
 	margin-top: 80px;
@@ -26,6 +26,7 @@ background-image: linear-gradient(to right bottom, #c1a6ed,#b6f0d5);
 	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
 
 }
+
 .logo
 {
 	width: 80px;margin-top: 30px;border-radius: 40px;margin-left: 10px;
